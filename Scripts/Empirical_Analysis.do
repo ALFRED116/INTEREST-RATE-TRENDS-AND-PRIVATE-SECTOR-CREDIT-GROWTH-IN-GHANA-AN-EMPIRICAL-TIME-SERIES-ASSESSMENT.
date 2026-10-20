@@ -277,7 +277,7 @@ test L1.d_log_psc L2.d_log_psc L3.d_log_psc L4.d_log_psc
 display as result "Decision: Unidirectional causality running from LENDING_RATE to LOG_PSC."
 
 * Save native Stata dataset
-save "DMA816D_Credit_InterestRate.dta", replace
+save "Credit_InterestRate.dta", replace
 
 display as text "Completed at: $S_DATE $S_TIME"
 
