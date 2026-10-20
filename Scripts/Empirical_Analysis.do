@@ -16,7 +16,7 @@ version 18
 capture log close
 
 * Start log file to save all regression results and test statistics
-log using "DMA816D_Stata_Results_Log.log", text replace
+log using "Stata_Results_Log.log", text replace
 display as text "Execution Date: $S_DATE  Time: $S_TIME"
 
 display as text _newline ">>> STEP 1: IMPORTING DATASET & SETTING TIME SERIES STRUCTURE <<<"
