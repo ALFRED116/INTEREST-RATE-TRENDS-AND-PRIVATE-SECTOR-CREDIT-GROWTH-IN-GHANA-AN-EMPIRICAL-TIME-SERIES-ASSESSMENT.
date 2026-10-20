@@ -1,0 +1,110 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\fs20\b\qc\line Table 1: Descriptive Statistics of Monthly Series }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1320
+\fs20\pard\intbl\qr { }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2493
+\fs20\pard\intbl\qr {{ Mean}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3665
+\fs20\pard\intbl\qr {{ Median}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx4838
+\fs20\pard\intbl\qr {{ SD}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6010
+\fs20\pard\intbl\qr {{ Min}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7183
+\fs20\pard\intbl\qr {{ Max}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx8355
+\fs20\pard\intbl\qr {{ Skewness}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx9528
+\fs20\pard\intbl\qr {{ Kurtosis}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx10700
+\fs20\pard\intbl\qr {{ N}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20\pard\intbl\ql {{ psc}}\cell
+\cellx2493
+\qr {{18500}}\cell
+\cellx3665
+\qr {{11500}}\cell
+\cellx4838
+\qr {{1.72e+04}}\cell
+\cellx6010
+\qr {{552.25}}\cell
+\cellx7183
+\qr {{73700}}\cell
+\cellx8355
+\qr {{.8038}}\cell
+\cellx9528
+\qr {{2.7813}}\cell
+\cellx10700
+\qr {{240}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20\pard\intbl\ql {{ log psc}}\cell
+\cellx2493
+\qr {{9.1357}}\cell
+\cellx3665
+\qr {{9.3544}}\cell
+\cellx4838
+\qr {{1.3827}}\cell
+\cellx6010
+\qr {{6.314}}\cell
+\cellx7183
+\qr {{11.2084}}\cell
+\cellx8355
+\qr {{-.4796}}\cell
+\cellx9528
+\qr {{1.956}}\cell
+\cellx10700
+\qr {{240}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20\pard\intbl\ql {{ lending rate}}\cell
+\cellx2493
+\qr {{26.8463}}\cell
+\cellx3665
+\qr {{26.72}}\cell
+\cellx4838
+\qr {{3.6108}}\cell
+\cellx6010
+\qr {{20.04}}\cell
+\cellx7183
+\qr {{36.5}}\cell
+\cellx8355
+\qr {{.4753}}\cell
+\cellx9528
+\qr {{3.0949}}\cell
+\cellx10700
+\qr {{240}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx1320
+\fs20\pard\intbl\ql {{ d log psc}}\cell
+\clbrdrb\brdrw15\brdrs\cellx2493
+\qr {{.0196}}\cell
+\clbrdrb\brdrw15\brdrs\cellx3665
+\qr {{.0204}}\cell
+\clbrdrb\brdrw15\brdrs\cellx4838
+\qr {{0.0285}}\cell
+\clbrdrb\brdrw15\brdrs\cellx6010
+\qr {{-.1456}}\cell
+\clbrdrb\brdrw15\brdrs\cellx7183
+\qr {{.1292}}\cell
+\clbrdrb\brdrw15\brdrs\cellx8355
+\qr {{-1.3559}}\cell
+\clbrdrb\brdrw15\brdrs\cellx9528
+\qr {{10.0625}}\cell
+\clbrdrb\brdrw15\brdrs\cellx10700
+\qr {{239}}\cell
+\row}
+
+
+\writepositionforappend
+}}

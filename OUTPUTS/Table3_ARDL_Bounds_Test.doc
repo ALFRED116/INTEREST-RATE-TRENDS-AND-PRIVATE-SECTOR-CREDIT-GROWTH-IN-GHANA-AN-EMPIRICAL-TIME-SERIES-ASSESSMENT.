@@ -1,0 +1,291 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\b\qc\line Table 3: ARDL Model and Bounds Test }{\par}
+\fs20 {ARDL(2,1) regression}\line
+\fs20 {Sample:  2003m3 thru 2022m12                            Number of obs =    238}\line
+\fs20 {                                                        R-squared     = 0.0919}\line
+\fs20 {                                                        Adj R-squared = 0.0763}\line
+\fs20 {Log likelihood = 525.38138                              Root MSE      = 0.0269}\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1500
+\fs20\pard\intbl\ql { D.log_psc }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx2700
+\fs20\pard\intbl\ql { Coefficient}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx3900
+\fs20\pard\intbl\ql { Std.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5100
+\fs20\pard\intbl\ql { err.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx6300
+\fs20\pard\intbl\ql { t}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx7500
+\fs20\pard\intbl\ql { P>t}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx8700
+\fs20\pard\intbl\ql { [95%}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx9900
+\fs20\pard\intbl\ql { conf.}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx11100
+\fs20\pard\intbl\ql { interval]}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {ADJ          }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {log_psc }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {L1.}\cell
+\cellx2700
+\fs20\pard\intbl\ql {   -0.007}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.002}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   -4.660}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.010}\cell
+\cellx8700
+\fs20\pard\intbl\ql {   -0.004}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {LR           }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {lending_rate }\cell
+\cellx2700
+\fs20\pard\intbl\ql {   -0.189}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.069}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   -2.760}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.006}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.325}\cell
+\cellx8700
+\fs20\pard\intbl\ql {   -0.054}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {SR           }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {log_psc }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {LD.}\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.015}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.068}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    0.210}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.831}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.119}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.148}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {lending_rate }\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {D1.}\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.005}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.003}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    1.790}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.074}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -0.000}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.010}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx3000
+\fs20\pard\intbl\ql {}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {_cons }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    0.122}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    0.026}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    4.670}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    0.000}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    0.070}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    0.173}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx8700\cell
+\row}
+\fs20 {note: estat btest has been superseded by estat ectest}\line
+\fs20 {      as the prime procedure to test for a levels relationship.}\line
+\fs20 {      (click to run)}\line
+\fs20 {Pesaran/Shin/Smith (2001) ARDL Bounds Test}\line
+\fs20 {H0: no levels relationship             F =  10.882}\line
+\fs20 {                                       t = -4.664}\line
+\fs20 {Critical Values (0.1-0.01), F-statistic, Case 3}\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx1500
+\fs20\pard\intbl\ql {}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx2700
+\fs20\pard\intbl\ql {[I_0]}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx3900
+\fs20\pard\intbl\ql {[I_1]}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx5100
+\fs20\pard\intbl\ql {[I_0]}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx6300
+\fs20\pard\intbl\ql {[I_1]}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx7500
+\fs20\pard\intbl\ql {[I_0]}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx8700
+\fs20\pard\intbl\ql {[I_1]}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx9900
+\fs20\pard\intbl\ql {[I_0]}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs\cellx11100
+\fs20\pard\intbl\ql {[I_1]}\cell
+\row}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {}\cell
+\cellx2700
+\fs20\pard\intbl\ql {L_1}\cell
+\cellx3900
+\fs20\pard\intbl\ql {L_1}\cell
+\cellx5100
+\fs20\pard\intbl\ql {L_05}\cell
+\cellx6300
+\fs20\pard\intbl\ql {L_05}\cell
+\cellx7500
+\fs20\pard\intbl\ql {L_025}\cell
+\cellx8700
+\fs20\pard\intbl\ql {L_025}\cell
+\cellx9900
+\fs20\pard\intbl\ql {L_01}\cell
+\cellx11100
+\fs20\pard\intbl\ql {L_01}\cell
+\row}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {k_1 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {    4.040}\cell
+\cellx3900
+\fs20\pard\intbl\ql {    4.780}\cell
+\cellx5100
+\fs20\pard\intbl\ql {    4.940}\cell
+\cellx6300
+\fs20\pard\intbl\ql {    5.730}\cell
+\cellx7500
+\fs20\pard\intbl\ql {    5.770}\cell
+\cellx8700
+\fs20\pard\intbl\ql {    6.680}\cell
+\cellx9900
+\fs20\pard\intbl\ql {    6.840}\cell
+\cellx11100
+\fs20\pard\intbl\ql {    7.840}\cell
+\row}
+\fs20 {accept if F < critical value for I(0) regressors}\line
+\fs20 {reject if F > critical value for I(1) regressors}\line
+\fs20 {Critical Values (0.1-0.01), t-statistic, Case 3}\line
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {}\cell
+\cellx2700
+\fs20\pard\intbl\ql {[I_0]}\cell
+\cellx3900
+\fs20\pard\intbl\ql {[I_1]}\cell
+\cellx5100
+\fs20\pard\intbl\ql {[I_0]}\cell
+\cellx6300
+\fs20\pard\intbl\ql {[I_1]}\cell
+\cellx7500
+\fs20\pard\intbl\ql {[I_0]}\cell
+\cellx8700
+\fs20\pard\intbl\ql {[I_1]}\cell
+\cellx9900
+\fs20\pard\intbl\ql {[I_0]}\cell
+\cellx11100
+\fs20\pard\intbl\ql {[I_1]}\cell
+\row}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {}\cell
+\cellx2700
+\fs20\pard\intbl\ql {L_1}\cell
+\cellx3900
+\fs20\pard\intbl\ql {L_1}\cell
+\cellx5100
+\fs20\pard\intbl\ql {L_05}\cell
+\cellx6300
+\fs20\pard\intbl\ql {L_05}\cell
+\cellx7500
+\fs20\pard\intbl\ql {L_025}\cell
+\cellx8700
+\fs20\pard\intbl\ql {L_025}\cell
+\cellx9900
+\fs20\pard\intbl\ql {L_01}\cell
+\cellx11100
+\fs20\pard\intbl\ql {L_01}\cell
+\row}
+{\par}
+{\trowd\trgaph108\trleft-108
+\cellx1500
+\fs20\pard\intbl\ql {k_1 }\cell
+\cellx2700
+\fs20\pard\intbl\ql {   -2.570}\cell
+\cellx3900
+\fs20\pard\intbl\ql {   -2.910}\cell
+\cellx5100
+\fs20\pard\intbl\ql {   -2.860}\cell
+\cellx6300
+\fs20\pard\intbl\ql {   -3.220}\cell
+\cellx7500
+\fs20\pard\intbl\ql {   -3.130}\cell
+\cellx8700
+\fs20\pard\intbl\ql {   -3.500}\cell
+\cellx9900
+\fs20\pard\intbl\ql {   -3.430}\cell
+\cellx11100
+\fs20\pard\intbl\ql {   -3.820}\cell
+\row}
+\fs20 {accept if t > critical value for I(0) regressors}\line
+\fs20 {reject if t < critical value for I(1) regressors}\line
+\fs20 {k: # of non-deterministic regressors in long-run relationship}\line
+\fs20 {Critical values from Pesaran/Shin/Smith (2001)}\line
+
+
+\writepositionforappend
+}}

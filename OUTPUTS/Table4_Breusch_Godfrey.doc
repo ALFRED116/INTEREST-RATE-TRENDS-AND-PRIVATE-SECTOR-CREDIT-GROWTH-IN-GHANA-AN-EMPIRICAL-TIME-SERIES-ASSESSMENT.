@@ -1,0 +1,47 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\b\qc\line Table 4: Breusch-Godfrey LM Test for Serial Correlation }{\par}
+\fs20 {Breusch–Godfrey LM test for autocorrelation}\line
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs \cellx2900
+\fs20\pard\intbl\ql {chi2}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs \cellx5400
+\fs20\pard\intbl\ql {df}\cell
+\clbrdrt\brdrw10\brdrs\clbrdrb\brdrw25\brdrs \cellx7900
+\fs20\pard\intbl\ql {Prob>Chi2}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2900
+\fs20\pard\intbl\ql {    0.104}\cell
+\cellx5400
+\fs20\pard\intbl\ql {1}\cell
+\cellx7900
+\fs20\pard\intbl\ql {    0.747}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2900
+\fs20\pard\intbl\ql {    1.866}\cell
+\cellx5400
+\fs20\pard\intbl\ql {2}\cell
+\cellx7900
+\fs20\pard\intbl\ql {    0.393}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx2900
+\fs20\pard\intbl\ql {    5.205}\cell
+\cellx5400
+\fs20\pard\intbl\ql {4}\cell
+\cellx7900
+\fs20\pard\intbl\ql {    0.267}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrb\brdrw15\brdrs\cellx7900\cell
+\row}
+\fs20 {                        H0: no serial correlation}\line
+
+
+\writepositionforappend
+}}
